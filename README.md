@@ -1,12 +1,12 @@
-### Documentcón de la Aolicación de Gestión Veterinaria
+# Documentcón de la Aolicación de Gestión Veterinaria
 
 ## Índice
 + Documentación de la Aplicacion de Gestión Veterianaria
-  + [Índice]()
-  + [Introducción]()
+  + [Índice]
+  + [Introducción](https://github.com/brylin22/BrylinRETO/blob/main/README.md#introducci%C3%B3n)
   + [Instalación]()
-  + [Uso]()
-  + [Contribución]()
+  + [Uso](https://github.com/brylin22/BrylinRETO/blob/main/README.md#introducci%C3%B3n)
+  + [Contribución](https://github.com/brylin22/BrylinRETO/blob/main/README.md#introducci%C3%B3n)
   + [Subvención](https://www.infosubvenciones.es/bdnsrans/GE/es/inicio)
 
 ## Introducción
@@ -48,9 +48,11 @@ Lo representamos a través del siguente diagrama de casos de uso:
 
 ## Subvención
 
-Este proyecyo está subvenciano depor el [Gobierno de España]()
+Este proyecyo está subvenciano por el [Gobierno de España](https://www.infosubvenciones.es/bdnsrans/GE/es/inicio)
 ##
 Para obtener más infromación sobre la aplicación y sus funcionamietno interno, consulta nuestra [documentación técnica](documentacon-tecnica.md).
 
 Otros organismos colaboradores. 
+
+
 
