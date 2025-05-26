@@ -36,8 +36,11 @@ A continuación se detalla...->
 
 
 |**Usuario** | **Funcionalidad**|
+
 |Paciente | Solicita citas, accede a su historial, contacta con el médico. |
+
 |Veterianario | Gestiona citas, consula historiales, emite recetas. |
+
 |Administrador | Administra personal, informes y facturación|
 
 Lo representamos a través del siguente diagrama de casos de uso:
