@@ -40,7 +40,7 @@ A continuación se detalla...->
 |Administrador | Administra personal, informes y facturación|
 
 Lo representamos a través del siguente diagrama de casos de uso:
-[a](entornos/Diagrama de casos de uso.png)
+[a](entornos/diagrama.png)
 
 ## Contribución
 ¿Quieres colaborar en el desarrollo?
