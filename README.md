@@ -1,4 +1,4 @@
-# Documentcón de la Aolicación de Gestión Veterinaria
+# Documentcón de la Aplicación de Gestión Veterinaria
 
 ## Índice
 + Documentación de la Aplicacion de Gestión Veterianaria
@@ -40,13 +40,16 @@ A continuación se detalla...->
 |Administrador | Administra personal, informes y facturación|
 
 Lo representamos a través del siguente diagrama de casos de uso:
-[a]:(entornos/diagrama.png)
+
+[a](entornos/Diagrama.png)
 
 ## Contribución
 ¿Quieres colaborar en el desarrollo?
-  1. Haz un fork
-  2. Crea un rama
-  3. Realiza....
+  1. Haz un fork del repositorio.
+  2. Crea un nueva rama (git checkout -b feature/tu-mejora).
+  3. Realiza tus cambios y haz commit(git commit -am 'agrega nueva funcionalidad').
+  4. Haz push a la rama (git push origin feature/nueva-funcionalidad)
+  5. Abre un pull request su revision.
 
 ## Subvención
 
@@ -55,6 +58,8 @@ Este proyecyo está subvenciano por el [Gobierno de España](https://www.infosub
 Para obtener más infromación sobre la aplicación y sus funcionamietno interno, consulta nuestra [documentación técnica](documentacion-tecnica.md).
 
 Otros organismos colaboradores. 
+
+https://www.educantabria.es/documents/8911298/8913497/logoIESMHP.png
 
 
 
