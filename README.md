@@ -31,7 +31,8 @@ Para utiliczr el interfaz...
 A continuación se detalla...->
 
 
-|**Usuario** || **Funcionalidad**|
+```python
+|**Usuario** | **Funcionalidad**|
 #
 |Paciente | Solicita citas, accede a su historial, contacta con el médico. |
 #
@@ -39,16 +40,17 @@ A continuación se detalla...->
 #
 |Administrador | Administra personal, informes y facturación|
 
+```
 Lo representamos a través del siguente diagrama de casos de uso:
 
-[a](entornos/Diagrama.png)
+![entornos/Diagrama.png](entornos/Diagrama.png)
 
 ## Contribución
 ¿Quieres colaborar en el desarrollo?
   1. Haz un fork del repositorio.
-  2. Crea un nueva rama (git checkout -b feature/tu-mejora).
-  3. Realiza tus cambios y haz commit(git commit -am 'agrega nueva funcionalidad').
-  4. Haz push a la rama (git push origin feature/nueva-funcionalidad)
+  2. Crea un nueva rama (`git checkout -b feature/tu-mejora`).
+  3. Realiza tus cambios y haz commit(`git commit -am 'agrega nueva funcionalidad`).
+  4. Haz push a la rama (`git push origin feature/nueva-funcionalidad`)
   5. Abre un pull request su revision.
 
 ## Subvención
@@ -60,6 +62,3 @@ Para obtener más infromación sobre la aplicación y sus funcionamietno interno
 Otros organismos colaboradores. 
 
 ![logoIESMHP.png](https://www.educantabria.es/documents/8911298/8913497/logoIESMHP.png)
-
-
-
