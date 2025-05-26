@@ -30,6 +30,7 @@ Para utiliczr el interfaz...
 
 A continuación se detalla...->
 
+
 |**Usuario** || **Funcionalidad**|
 #
 |Paciente | Solicita citas, accede a su historial, contacta con el médico. |
@@ -39,7 +40,7 @@ A continuación se detalla...->
 |Administrador | Administra personal, informes y facturación|
 
 Lo representamos a través del siguente diagrama de casos de uso:
-[](entornos/diagrama-de-casos-de-uso.png)
+[a](entornos/Diagrama de casos de uso.png)
 
 ## Contribución
 ¿Quieres colaborar en el desarrollo?
