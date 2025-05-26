@@ -59,7 +59,7 @@ Para obtener más infromación sobre la aplicación y sus funcionamietno interno
 
 Otros organismos colaboradores. 
 
-![https://www.educantabria.es/documents/8911298/8913497/logoIESMHP.png](https://)
+![logoIESMHP.png](https://www.educantabria.es/documents/8911298/8913497/logoIESMHP.png)
 
 
 
