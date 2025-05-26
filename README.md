@@ -2,7 +2,7 @@
 
 ## Índice
 + Documentación de la Aplicacion de Gestión Veterianaria
-  + [Índice]
+  + Índice
   + [Introducción](https://github.com/brylin22/BrylinRETO/blob/main/README.md#introducci%C3%B3n)
   + [Instalación]()
   + [Uso](https://github.com/brylin22/BrylinRETO/blob/main/README.md#introducci%C3%B3n)
@@ -11,13 +11,16 @@
 
 ## Introducción
 
-El Sistema de Gestión Veterianaria desarrollado por el alumnado de ** IES MIGUEL HERRERO PEREDA permite a pacientes, nédicos y administradores gestinar las operaciones básicas de un centro veterinario de forma segura y eficiente. 
+El **Sistema de Gestión Veterianaria** desarrollado por el alumnado de **IES MIGUEL HERRERO PEREDA** permite a pacientes, nédicos y administradores gestinar las operaciones básicas de un centro veterinario de forma segura y eficiente. 
 
 ## Instalación
 
 Para instalar y configurar la aplicación en tu entorno local, sigue los siguentes pasos:
     
   1.  Cola el repositorio desde Github:
+        ```console
+        git clone https://github.com/brylin22/BrylinRETO.git
+        ```
   2. Abre el proyecyo en tu entorno de desarrollo preferod.
   3. Compila y ejecuta el proyecto. 
 
@@ -26,7 +29,7 @@ El sistemaveteriano incluye las siguentes funcionalidades principales:
   + Solicitud y gestión de citas. 
 
 
-Para utiliczr el interfaz...
+Para utilicar el interfaz...
 
 A continuación se detalla...->
 
