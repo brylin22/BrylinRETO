@@ -7,7 +7,7 @@
   + [Instalación]()
   + [Uso](https://github.com/brylin22/BrylinRETO/blob/main/README.md#introducci%C3%B3n)
   + [Contribución](https://github.com/brylin22/BrylinRETO/blob/main/README.md#introducci%C3%B3n)
-  + [Subvención](https://www.infosubvenciones.es/bdnsrans/GE/es/inicio)
+  + [Subvención](https://github.com/brylin22/BrylinRETO/blob/main/README.md#subvenci%C3%B3n)
 
 ## Introducción
 
@@ -39,6 +39,7 @@ A continuación se detalla...->
 |Administrador | Administra personal, informes y facturación|
 
 Lo representamos a través del siguente diagrama de casos de uso:
+[]()
 
 ## Contribución
 ¿Quieres colaborar en el desarrollo?
@@ -50,7 +51,7 @@ Lo representamos a través del siguente diagrama de casos de uso:
 
 Este proyecyo está subvenciano por el [Gobierno de España](https://www.infosubvenciones.es/bdnsrans/GE/es/inicio)
 ##
-Para obtener más infromación sobre la aplicación y sus funcionamietno interno, consulta nuestra [documentación técnica](documentacon-tecnica.md).
+Para obtener más infromación sobre la aplicación y sus funcionamietno interno, consulta nuestra [documentación técnica](documentacion-tecnica.md).
 
 Otros organismos colaboradores. 
 
