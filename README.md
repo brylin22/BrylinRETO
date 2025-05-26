@@ -1,2 +1,56 @@
-# BrylinRETO
-Reto
+### Documentcón de la Aolicación de Gestión Veterinaria
+
+## Índice
++ Documentación de la Aplicacion de Gestión Veterianaria
+  + [Índice]()
+  + [Introducción]()
+  + [Instalación]()
+  + [Uso]()
+  + [Contribución]()
+  + [Subvención](https://www.infosubvenciones.es/bdnsrans/GE/es/inicio)
+
+## Introducción
+
+El Sistema de Gestión Veterianaria desarrollado por el alumnado de ** IES MIGUEL HERRERO PEREDA permite a pacientes, nédicos y administradores gestinar las operaciones básicas de un centro veterinario de forma segura y eficiente. 
+
+## Instalación
+
+Para instalar y configurar la aplicación en tu entorno local, sigue los siguentes pasos:
+    
+  1.  Cola el repositorio desde Github:
+  2. Abre el proyecyo en tu entorno de desarrollo preferod.
+  3. Compila y ejecuta el proyecto. 
+
+## Uso
+El sistemaveteriano incluye las siguentes funcionalidades principales:
+  + Solicitud y gestión de citas. 
+
+
+Para utiliczr el interfaz...
+
+A continuación se detalla...->
+
+|**Usuario** || **Funcionalidad**|
+#
+|Paciente | Solicita citas, accede a su historial, contacta con el médico. |
+#
+|Veterianario | Gestiona citas, consula historiales, emite recetas. |
+#
+|Administrador | Administra personal, informes y facturación|
+
+Lo representamos a través del siguente diagrama de casos de uso:
+
+## Contribución
+¿Quieres colaborar en el desarrollo?
+  1. Haz un fork
+  2. Crea un rama
+  3. Realiza....
+
+## Subvención
+
+Este proyecyo está subvenciano depor el [Gobierno de España]()
+##
+Para obtener más infromación sobre la aplicación y sus funcionamietno interno, consulta nuestra [documentación técnica](documentacon-tecnica.md).
+
+Otros organismos colaboradores. 
+
